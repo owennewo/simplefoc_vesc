@@ -20,7 +20,7 @@ Below is the theoretical connectivity possible with this board.  Much of it is u
 
 ### Tested Ports
 
- -  working
+ - working
    - USART6 - tested (works)
    - HALLS - tested (works)
    - I2C2 - tested (working with mpu6050)

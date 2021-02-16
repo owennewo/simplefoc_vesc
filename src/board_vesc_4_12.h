@@ -57,8 +57,8 @@ void SystemClock_Config(void)
 #define I2C1_SCL      PB6
 #define I2C1_SDA      PB7
 // OR
-#define USART1_SCL    PB6
-#define USART1_SDA    PB7
+#define USART1_TX    PB6
+#define USART1_RX    PB7
 // AND
 #define TEMP_MOTOR    PC0
 
